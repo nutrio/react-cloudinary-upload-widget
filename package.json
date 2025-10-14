@@ -7,6 +7,7 @@
   "repository": "bubbaspaarx/react-cloudinary-upload-widget",
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "jsnext:main": "dist/index.es.js",
   "engines": {
     "node": ">=8",
     "npm": ">=5"
