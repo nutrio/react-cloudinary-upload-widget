@@ -5,7 +5,6 @@
   "author": "bubbaspaarx",
   "license": "MIT",
   "repository": "bubbaspaarx/react-cloudinary-upload-widget",
-  "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "engines": {
